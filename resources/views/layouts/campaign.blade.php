@@ -21,7 +21,7 @@
     </head>
     <body class="font-sans antialiased bg-gray-100">
         <!-- Top Nav -->
-        <div class="w-full bg-green fixed shadow z-1 bg-[#272727]">
+        <div class="w-full bg-green fixed shadow z-1 bg-white">
             <div class="container mx-auto">
                 <div class="w-full flex justify-center items-center py-4 px-8">
                     <!-- Brand -->
