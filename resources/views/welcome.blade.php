@@ -9,7 +9,11 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-
+        <script>(function(w){w.fpr=w.fpr||function(){w.fpr.q = w.fpr.q||[];w.fpr.q[arguments[0]=='set'?'unshift':'push'](arguments);};})(window);
+            fpr("init", {cid:"5a6hgk3l"});
+            fpr("click");
+        </script>
+        <script src="https://cdn.firstpromoter.com/fpr.js" async></script>
         <!-- Styles -->
         @vite(['resources/js/app.js','resources/css/app.css'])
     </head>
