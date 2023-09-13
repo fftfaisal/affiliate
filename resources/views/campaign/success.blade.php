@@ -9,9 +9,9 @@
             </div>
         </div>
     </div>
-</x-campaign-layout>
 @push('script')
     <script>
-{{--        fpr("referral",{email:"{{ $email }}"})--}}
+        fpr("referral",{email:"{{ $email }}"})
     </script>
 @endpush
+</x-campaign-layout>
