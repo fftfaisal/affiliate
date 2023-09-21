@@ -4,7 +4,7 @@
         <form method="post" action="{{ route('campaign-page.store',$slug) }}">
             @csrf
             @if($errors->any())
-                <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-3" role="alert">
+                <div id="form-error" class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-3" role="alert">
                     @foreach($errors->all() as $error)
                         <div class="font-bold">{{$error}}</div>
                     @endforeach

@@ -36,8 +36,13 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center bg-gray-100 dark:bg-gray-900">
             <div class="w-full bg-white dark:bg-gray-800 shadow-md overflow-hidden sm:rounded-lg">
                 {{ $slot }}
+                <p class="text-center font-bold p-4">&copy; {{ date('Y') }} Samson Clinical Courses. All Rights Reserved.</p>
             </div>
         </div>
     @stack('script')
+    <script>
+        let element = document.getElementById("form-error");
+        element.scrollIntoView();
+    </script>
     </body>
 </html>
