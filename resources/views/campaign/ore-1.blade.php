@@ -2,8 +2,7 @@
     <div class="w-full bg-gray-100 pt-20">
         <div class="container mx-auto py-8">
             <div class="content w-4/6 mx-auto">
-                <h1 class="text-4xl my-10 text-center font-bold">Welcome to Samson Clinical Courses ORE part 1
-                    subscription</h1>
+                <h1 class="text-4xl my-10 text-center font-bold">Overseas Registration Exams (ORE) Part 1</h1>
 
                 <p class="mb-3">
                     ORE Part 1 is strategically designed to evaluate candidates' practical application of knowledge in clinical dentistry. This examination consists of two computer-based papers:

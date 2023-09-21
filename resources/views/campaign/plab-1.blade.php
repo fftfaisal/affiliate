@@ -2,7 +2,7 @@
 <div class="w-full bg-gray-100 pt-20">
     <div class="container mx-auto py-8">
         <div class="content w-4/6 mx-auto">
-            <h1 class="text-4xl mb-12 text-center font-bold">Welcome to Samson Clinical Courses PLAB part 1 subscription.</h1>
+            <h1 class="text-4xl mb-12 text-center font-bold">The Professional and Linguistic Assessment Board (PLAB) Part 1</h1>
 
             <p class="mb-3">
                 The PLAB part 1 exam assesses your ability to apply medical knowledge in patient care, focusing on practical application rather than rote memorization. The questions are based on current best practices in the UK and the equipment typically found in UK hospitals.

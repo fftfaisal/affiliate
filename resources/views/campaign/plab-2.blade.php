@@ -2,7 +2,7 @@
     <div class="w-full bg-gray-100 pt-20">
         <div class="container mx-auto py-8">
             <div class="content w-4/6 mx-auto">
-                <h1 class="text-4xl my-10 text-center font-bold">The Professional and Linguistic Assessment Board (PLAB) 2</h1>
+                <h1 class="text-4xl my-10 text-center font-bold">The Professional and Linguistic Assessment Board (PLAB) Part 2</h1>
 
                 <p class="mb-3">
                     The Professional and Linguistic Assessment Board (PLAB) 2 is an Objective Structured Clinical Exam (OSCE) consisting of 16 scenarios, each lasting eight minutes. These scenarios aim to replicate real-life medical settings, including mock consultations and acute ward situations.
