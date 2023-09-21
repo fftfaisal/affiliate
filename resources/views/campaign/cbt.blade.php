@@ -4,8 +4,6 @@
             <div class="content w-4/6 mx-auto">
                 <h1 class="text-4xl my-10 text-center font-bold">NMC Computer Based Test (CBT)</h1>
 
-                <h2 class="text-2xl font-bold mb-3">Welcome to Samson Clinical Courses Online OET Course.</h2>
-
                 <p class="mb-3">Welcome to Samson’s Clinical Courses online subscription question bank designed for nurses preparing for the NMC Part one of the Test of Competence 2021, known as the CBT (Computer-Based Test).</p>
 
                 <h2 class="text-xl mb-3">The CBT is divided into two parts:</h2>
