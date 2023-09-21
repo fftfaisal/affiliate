@@ -2,7 +2,7 @@
     <div class="w-full bg-gray-100 pt-20">
         <div class="container mx-auto py-8">
             <div class="content w-4/6 mx-auto">
-                <h1 class="text-4xl my-10 text-center font-bold">Nursing OSCE</h1>
+                <h1 class="text-4xl my-10 text-center font-bold">Objective Structured Clinical Examination  (OSCE)</h1>
 
                 <h2 class="text-2xl font-bold mb-3">Welcome to the Samson Nursing OSCE course</h2>
 
